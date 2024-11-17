@@ -9,7 +9,7 @@ import { IoClose } from "react-icons/io5";
 const NavBar = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
-    <div className="flex items-center justify-between text-black  px-32 p-2">
+    <div className="flex items-center justify-between text-black p-3 md:px-20">
       <div>
         <Link href="/">
           <Image src={logo} alt="" />
@@ -35,7 +35,7 @@ const NavBar = () => {
         </ul>
       </nav>
       <div className="flex gap-4">
-        <button className="bg-teal-500 hidden py-2 px-4 rounded-xl md:block">
+        <button className="bg-teal-500 hidden py-1 px-4 rounded-xl md:block">
           Get started
         </button>
         <button
