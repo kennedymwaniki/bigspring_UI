@@ -4,8 +4,8 @@ import Image from "next/image";
 
 const Hero = () => {
   return (
-    <div className="min-h-screen w-full text-center gap-48 mx-auto container gap-y-2">
-      <h1 className="text-black mt-16 font-semibold text-5xl p-4">
+    <div className="min-h-screen w-full text-center gap-48 mx-auto  gap-y-2">
+      <h1 className="text-black mt-16 font-semibold text-5xl p-4 text-wrap">
         Let us solve your critical website
         <br />
         development challenges
