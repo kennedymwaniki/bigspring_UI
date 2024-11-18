@@ -1,4 +1,4 @@
-import React from "react";
+
 import banner from "../../public/banner.svg";
 import Image from "next/image";
 

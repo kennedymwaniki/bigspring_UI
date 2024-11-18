@@ -1,5 +1,4 @@
 import Link from "next/link";
-import React from "react";
 import logo from "../../public/logo.webp";
 import Image from "next/image";
 import { FaFacebookF, FaTwitter, FaLinkedin, FaSkype } from "react-icons/fa6";

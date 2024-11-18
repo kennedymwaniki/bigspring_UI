@@ -1,5 +1,4 @@
 import Image from "next/image";
-import React from "react";
 import code from "../../public/code.svg";
 import oop from "../../public/oop.svg";
 import userclock from "../../public/user-clock.svg";
